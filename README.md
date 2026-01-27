@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sanuth</h1>
-<h3 align="center">A passionate backend and agentic engineer</h3>
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Go**
+I'm a backend engineer specializing in building scalable systems and AI-powered applications. Currently focused on developing agentic AI solutions that solve real-world problems through intelligent automation.
 
-- 🌱 I’m currently learning **AWS**
+- 🔭 Currently working with **Go** to build high-performance microservices
+- 🤖 Exploring **Agentic AI** architectures and LLM-powered systems
+- ☁️ Learning **AWS** for cloud-native application deployment
+- 👯 Open to collaborating on **AI projects**, especially those involving agents and automation
+- 💬 Ask me about **Java, Go, Python, Backend Architecture, AI Integration**
+- ⚡ Fun fact: I think I'm funny (and my code comments prove it)
 
-- 👯 I’m looking to collaborate on **AI**
-
-- 💬 Ask me about **Java, Go, Python**
-
-- 📫 How to reach me **sanuthmenuka@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
