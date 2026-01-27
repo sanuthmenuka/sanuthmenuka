@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Sanuth</h1>
+<h3 align="center">Backend & Agentic AI Engineer | Building Scalable Systems</h3>
+
+<p align="center">
+  <a href="mailto:sanuthmenuka@gmail.com">📧 Email</a> •
+  <a href="[https://linkedin.com/in/yourprofile](https://linkedin.com/in/www.linkedin.com/in/sanuth-menuka-5a0ba4266)">💼 LinkedIn</a> •
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 I'm a backend engineer specializing in building scalable systems and AI-powered applications. Currently focused on developing agentic AI solutions that solve real-world problems through intelligent automation.
