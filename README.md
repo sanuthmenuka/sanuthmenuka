@@ -7,6 +7,20 @@
 </p>
 
 ---
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanuth;Backend+%26+Agentic+AI+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+</p>
+
 
 ### 👨‍💻 About Me
 
