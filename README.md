@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:sanuthmenuka@gmail.com">📧 Email</a> •
-  <a href="[https://linkedin.com/in/yourprofile](https://linkedin.com/in/www.linkedin.com/in/sanuth-menuka-5a0ba4266)">💼 LinkedIn</a> •
+  <a href="https://linkedin.com/in/www.linkedin.com/in/sanuth-menuka-5a0ba4266">💼 LinkedIn</a> •
 </p>
 
 ---
