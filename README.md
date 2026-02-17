@@ -22,13 +22,13 @@
 
 I'm a backend engineer specializing in building scalable systems and AI-powered applications. Currently focused on developing agentic AI solutions that solve real-world problems through intelligent automation.
 
-- 🔭 Currently working with **Go** to build high-performance microservices
-- 🤖 Exploring **Agentic AI** architectures and LLM-powered systems
-- ☁️ Learning **AWS** for cloud-native application deployment
-- 👯 Open to collaborating on **AI projects**, especially those involving agents and automation
-- 💬 Ask me about **Java, Go, Python, Backend Architecture, AI Integration**
-- ⚡ Fun fact: I think I'm funny (and my code comments prove it)
-
+🤖 Exploring Agentic AI architectures and LLM-powered systems
+🧠 Building with Multi-Agent Systems, MCP, and LangChain for real-world automation
+☁️ Learning AWS for cloud-native application deployment
+👯 Open to collaborating on AI projects, especially those involving agents and negotiation
+💬 Ask me about Java, Python, Spring Boot, Backend Architecture, AI Integration
+🌐 Check out my work at sanuthmenuka.com
+⚡ Fun fact: I think I'm funny (and my code comments prove it)
 ---
 
 <h3 align="left">Connect with me:</h3>
