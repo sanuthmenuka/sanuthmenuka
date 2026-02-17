@@ -24,7 +24,7 @@
 I'm a backend engineer specializing in building scalable systems and AI-powered applications. Currently focused on developing agentic AI solutions that solve real-world problems through intelligent automation.
 
 - 🤖 Exploring Agentic AI architectures and LLM-powered systems
-- 🧠 Building with Multi-Agent Systems, MCP, and LangChain for real-world automation
+- 🧠 Building with Multi-Agent Systems, MCP, and agentic frameworks for real-world automation
 - ☁️ Learning AWS for cloud-native application deployment
 - 👯 Open to collaborating on AI projects, especially those involving multi agent systems and MCPs.
 - 💬 Ask me about Java, Python, Spring Boot, Backend Architecture, AI Integration
